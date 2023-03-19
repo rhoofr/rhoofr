@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Hoofring</h1>
 <h3 align="center">A skilled full stack developer from Kentucky</h3>
 
-- 🔭 I’m currently working on [Lottery App](https://github.com/rhoofr/lottery-app)
-
 - 🌱 I’m currently learning **React, MongoDB, NodeJS, Express**
-
-- 📫 How to reach me **rhoofr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
